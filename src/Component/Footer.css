@@ -1,0 +1,32 @@
+/* Footer.css */
+
+.footer {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .footer-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+  }
+  
+  .footer-logo img {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .footer-logo h2 {
+    margin-left: 0.5rem;
+    font-size: 1.2rem;
+  }
+  
+  .footer-description {
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #ccc;
+  }
+  

@@ -1,0 +1,36 @@
+/* Carousel.css */
+
+.carousel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0;
+    background-color: #222;
+    padding: 1rem;
+  }
+  
+  .carousel img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .carousel-nav {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    width: 100%;
+  }
+  
+  .carousel-button {
+    background-color: transparent;
+    border: none;
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
+  }
+  
+  .carousel-button:hover {
+    color: #ff6347;
+  }
+  
